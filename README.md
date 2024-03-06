@@ -1,2 +1,2 @@
-# my_first_project
-Number guessing game as the first python project
+# Number Guessing Game
+a simple program which utilizes random and while loop as a game loop
